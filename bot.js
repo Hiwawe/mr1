@@ -17,7 +17,7 @@ const fs = require('fs');
 
 
 
-const prefix = "3"
+const prefix = "6"
 
 client.on('ready', () => {
   console.log('cxxxx[]̲̅ ̲̅ ̲̅ ̲̅.̲̅ ̲̅ ̲̅.̲̅ ̲̅ ̲̅.̲̅ ̲̅ ̲̅.̲̅ ̲̅ ̲̅.̲̅ ̲̅ ̅/')
